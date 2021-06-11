@@ -1,0 +1,6 @@
+c:\users\michal.michna\documents\visual studio 2017\Projects\CS010AritmetickyPrumer\bin\Debug\CS010AritmetickyPrumer.exe.config
+c:\users\michal.michna\documents\visual studio 2017\Projects\CS010AritmetickyPrumer\bin\Debug\CS010AritmetickyPrumer.exe
+c:\users\michal.michna\documents\visual studio 2017\Projects\CS010AritmetickyPrumer\bin\Debug\CS010AritmetickyPrumer.pdb
+c:\users\michal.michna\documents\visual studio 2017\Projects\CS010AritmetickyPrumer\obj\Debug\CS010AritmetickyPrumer.exe
+c:\users\michal.michna\documents\visual studio 2017\Projects\CS010AritmetickyPrumer\obj\Debug\CS010AritmetickyPrumer.pdb
+c:\users\michal.michna\documents\visual studio 2017\Projects\CS010AritmetickyPrumer\obj\Debug\CS010AritmetickyPrumer.csprojResolveAssemblyReference.cache
